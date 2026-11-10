@@ -1,0 +1,30 @@
+{
+  "name": "E&R Store · Painel Marketplaces",
+  "short_name": "E&R Store",
+  "description": "Gestão das lojas no Mercado Livre e na Shopee",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060b14",
+  "theme_color": "#060b14",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
